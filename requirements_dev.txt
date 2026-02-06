@@ -8,6 +8,8 @@ seaborn
 scipy
 
 xgboost
+lightgbm
+
 joblib
 streamlit
 
