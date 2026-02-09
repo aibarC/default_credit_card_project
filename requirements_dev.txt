@@ -1,19 +1,8 @@
-scikit-learn
-numpy
-pandas
+-r requirements.txt
 
 matplotlib
 seaborn
-
-scipy
-
 xgboost
-lightgbm
-
-joblib
-streamlit
-
 jupyter
 ipykernel
-
 optuna
